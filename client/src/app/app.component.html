@@ -1,0 +1,112 @@
+<div *ngIf="identity" class="navigation col-lg-1">
+	<h1 class="head-title">
+		<a [routerLink]="['/']">
+			<span class="glyphicon glyphicon-music" aria-hidden="true"></span>
+	  		{{title}}
+	  	</a>
+	</h1>
+	<nav id="navigation">
+		<a href="#" [routerLinkActive]="['actived']">
+			<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+			Search
+		</a>
+		<a [routerLink] = "['/artists', 1]" [routerLinkActive]="['actived']">
+			<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+			Artists
+		</a>
+		<a href="#" [routerLinkActive]="['actived']">
+			<span class="glyphicon glyphicon-book" aria-hidden="true"></span>
+			Albums
+		</a>
+	</nav>
+	<nav id="user_logged">
+		<div class="user-image">
+			<img id="image-logged" src="{{url + 'get-image-user/' + identity.image}}" />
+		</div>
+		<span id="identity_name">
+			{{identity.name}}
+		</span>
+		<span>
+			<a [routerLink] = "['/my-data']" [routerLinkActive]="['actived']">
+				<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+				My data
+			</a>
+			<a (click)="logout()" class="btn-logout">
+				<span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>
+				Log-out
+			</a>
+		</span>
+	</nav>
+</div>
+
+<div [class.hidden]="!identity" class="central col-lg-11">
+
+	<router-outlet></router-outlet>
+	<div class="clearfix"></div>
+	<player class="player" *ngIf="identity"></player>
+</div>
+
+
+<div class="col-lg-11" *ngIf="!identity">
+	<div class="col-lg-6">
+		<h1>Identificate</h1>
+		<div *ngIf ="errorMessage" class="alert alert-danger">
+ 			<strong>Error!</strong> {{errorMessage}}
+		</div>
+		<form #logirForm="ngForm" (ngSubmit)="onSubmit()" class="col-md-7">
+			<p>
+				<label>e-mail:</label>
+				<input type="email" #email="ngModel" name="email" [(ngModel)]="user.email" class="form-control" required />
+				<span *ngIf="!email.valid && email.touched">
+					e-mail is required!
+				</span>
+			</p>
+			<p>
+				<label>password:</label>
+				<input type="password" #password="ngModel" name="password" [(ngModel)]="user.password"class="form-control" required />
+				<span *ngIf="!password.valid && password.touched">
+					password is required!
+				</span>
+			</p>
+			<input type="submit" value="Log-in" class="btn btn-primary">
+		</form>
+	</div>
+
+	<div class="col-lg-6">
+		<h1>Regístrate</h1>
+		<div *ngIf ="alertRegister" class="alert alert-success">
+ 			{{alertRegister}}
+		</div>
+		<form #registerForm="ngForm" (ngSubmit)="onSubmitRegister()" class="col-md-10">
+			<p>
+				<label>Name:</label>
+				<input type="text" #name="ngModel" name="name" [(ngModel)]="user_register.name" class="form-control" required />
+				<span *ngIf="!name.valid && name.touched">
+					Name is required!
+				</span>
+			</p>
+			<p>
+				<label>Lastname:</label>
+				<input type="text" #surname="ngModel" name="surname" [(ngModel)] = "user_register.surname" class="form-control" required />
+				<span *ngIf="!surname.valid && surname.touched">
+					Lastname is required!
+				</span>
+			</p>
+			<p>
+				<label>e-mail:</label>
+				<input type="email" #email="ngModel" name="email" [(ngModel)]="user_register.email" class="form-control" required />
+				<span *ngIf="!email.valid && email.touched">
+					e-mail is required!
+				</span>
+			</p>
+			<p>
+				<label>password:</label>
+				<input type="password" #password="ngModel" name="password" [(ngModel)]="user_register.password" class="form-control" required />
+				<span *ngIf="!password.valid && password.touched">
+					password is required!
+				</span>
+			</p>
+			<input type="submit" value="Register" class="btn btn-primary">
+		</form>
+	</div>
+</div>

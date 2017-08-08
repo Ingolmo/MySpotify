@@ -1,0 +1,44 @@
+<div class="col-lg-6" *ngIf="identity && identity.role =='ROLE_ADMIN'">	
+	<h1>{{titulo}}</h1>
+	
+	<div *ngIf ="alertMessage">
+		<div class="alert alert-info">
+	 		{{alertMessage}}
+		</div>
+	</div>
+
+	<form #formArtist="ngForm" (ngSubmit)="onSubmit()" >
+		<p>
+			<label>Name</label>
+			<input type="text" #name="ngModel" name="name" [(ngModel)]="artist.name" required class="form-control"/>
+			<span *ngIf="!name.valid && name.touched">
+				Name is required
+			</span>
+		</p>
+
+		<p>
+			<label>Description</label>
+			<textarea #description="ngModel" name="description" [(ngModel)]="artist.description" required class="form-control"></textarea>
+			<span *ngIf="!description.valid && description.touched">
+				Description is required
+			</span>
+		</p>
+
+		<div *ngIf="is_edit">
+			<div class ="artist_image_for_edit" *ngIf="artist.image && artist.image != 'null'">
+				<img src="{{ url + 'get-image-artist/' + artist.image }}">
+			</div>
+			<p>
+				<label>Upload the artist's image.</label>
+				<input type="file" placeholder="Upload image" (change)="fileChangeEvent($event)" />
+			</p>
+		</div>
+
+		<input type="submit" value="{{titulo}}" [disabled]="!formArtist.form.valid" class="btn btn-success"/>
+	</form>
+</div>
+
+<div class="col-lg-6" *ngIf="!identity || identity.role !='ROLE_ADMIN'">	
+	<h1>Error</h1>
+	<p>Access denied!</p>
+</div>

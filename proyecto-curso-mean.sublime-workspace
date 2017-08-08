@@ -1,0 +1,1126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"document\tvar"
+			],
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"ge",
+				"getElementById\tmethod"
+			],
+			[
+				"so",
+				"song_player\tlet"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"al",
+				"albumId\tparameter"
+			],
+			[
+				"_",
+				"_router\tproperty"
+			],
+			[
+				"Song",
+				"SongService\talias"
+			],
+			[
+				"Alb",
+				"AlbumService\talias"
+			],
+			[
+				"mart",
+				"margin-top"
+			],
+			[
+				"Artis",
+				"ArtistDetailComponent\talias"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"Artist",
+				"ArtistService\talias"
+			],
+			[
+				"_rou",
+				"_router\tproperty"
+			],
+			[
+				"F",
+				"filesToUpload\tproperty"
+			],
+			[
+				"_ro",
+				"_route\tproperty"
+			],
+			[
+				"Reques",
+				"RequestOptions\talias"
+			],
+			[
+				"p",
+				"post\tmethod"
+			],
+			[
+				"cons",
+				"Console\tinterface"
+			],
+			[
+				"Glo",
+				"GLOBAL\talias"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"files",
+				"filesToUpload\tproperty"
+			],
+			[
+				"x",
+				"xhr\tlocal var"
+			],
+			[
+				"Rou",
+				"RouterModule\talias"
+			],
+			[
+				"User",
+				"UserService\talias"
+			],
+			[
+				"se",
+				"selector\tproperty"
+			],
+			[
+				"user",
+				"user_register\tproperty"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"song",
+				"songController"
+			],
+			[
+				"up",
+				"uploadFile"
+			],
+			[
+				"getSong",
+				"getSongFile"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"albu",
+				"albumUpdated"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"artist",
+				"artistId"
+			],
+			[
+				"alb",
+				"albumId"
+			],
+			[
+				"ar",
+				"artistId"
+			],
+			[
+				"artis",
+				"artistUpdated"
+			],
+			[
+				"arts",
+				"artistId"
+			],
+			[
+				"album",
+				"albumRemoved"
+			],
+			[
+				"arti",
+				"artistId"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"Art",
+				"Artistcontroller"
+			],
+			[
+				"pat",
+				"path_file"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"file_",
+				"file_split"
+			],
+			[
+				"auth",
+				"authorization"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"Son",
+				"SongSchema"
+			],
+			[
+				"Albu",
+				"AlbumSchema"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"SERV",
+				"SERVICEACTIVITIES"
+			],
+			[
+				"CUS",
+				"CUSTPROP"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"CUSTPRO",
+				"CUSTPROPSTATUS"
+			],
+			[
+				"SERVROLE",
+				"SERVROLEID"
+			],
+			[
+				"EMPLO",
+				"EMPLOYEES"
+			],
+			[
+				"EMP",
+				"EMPLOYEES"
+			],
+			[
+				"EMAI",
+				"EMAILTYPEID"
+			],
+			[
+				"NUM",
+				"NUMLIC"
+			],
+			[
+				"APP",
+				"APPNAME"
+			],
+			[
+				"EVENTS",
+				"EVENTSEMP"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"UPDA",
+				"UPDATEDBY_OLD"
+			],
+			[
+				"CREATE",
+				"CREATEDBY_OLD"
+			],
+			[
+				"UP",
+				"UPDATEDBY_OLD"
+			],
+			[
+				"CREAD",
+				"CREATEDBY_OLD"
+			],
+			[
+				"CREA",
+				"CREATEDBY"
+			],
+			[
+				"C",
+				"CREATEDBY"
+			],
+			[
+				"Create",
+				"createdate"
+			],
+			[
+				"T",
+				"TABLE"
+			],
+			[
+				"Ta",
+				"Table"
+			],
+			[
+				"A",
+				"ALTER"
+			],
+			[
+				"CUST",
+				"CUSTACT"
+			],
+			[
+				"UPDAD",
+				"UPDATEDBY"
+			],
+			[
+				"CREATED",
+				"CREATEDBY"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"Ro",
+				"ROULUSERS"
+			],
+			[
+				"ROL",
+				"ROLUSERS"
+			],
+			[
+				"IT",
+				"ITYPE"
+			],
+			[
+				"CustAc",
+				"CUSTACTID"
+			],
+			[
+				"BAN",
+				"BANKID"
+			],
+			[
+				"CUSTB",
+				"CUSTBANKACCS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/src/app/components/album-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 3449,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/views/album-detail.html",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/components/player.component.ts",
+			"settings":
+			{
+				"buffer_size": 1226,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/assets/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 3165,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/bootstrap-4-dev/docs/4.0/examples/index.md",
+			"settings":
+			{
+				"buffer_size": 7372,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/routes/albumRoutes.js",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Indent XML"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/curso-mean",
+		"/C/wamp/www/curso-mean/api",
+		"/C/wamp/www/curso-mean/api/routes",
+		"/C/wamp/www/curso-mean/client",
+		"/C/wamp/www/curso-mean/client/src",
+		"/C/wamp/www/curso-mean/client/src/assets"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/curso-angular4/package.json",
+		"/C/wamp/www/curso-mean/client/src/app/views/artist-detail.html",
+		"/C/wamp/www/curso-mean/api/routes/songRoutes.js",
+		"/C/wamp/www/curso-mean/client/src/app/app.component.html",
+		"/C/wamp/www/curso-mean/client/src/app/app.module.ts",
+		"/C/Users/user/Downloads/default.png",
+		"/C/wamp/www/curso-mean/client/src/app/components/song-add.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/song-edit.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/services/song.service.ts",
+		"/C/wamp/www/curso-mean/client/src/app/views/song-add.html",
+		"/C/wamp/www/curso-mean/client/src/app/app.routing.ts",
+		"/C/wamp/www/curso-mean/api/models/song.js",
+		"/C/wamp/www/curso-mean/client/src/app/models/song.ts",
+		"/C/wamp/www/curso-mean/client/src/app/views/album-detail.html",
+		"/C/wamp/www/curso-mean/client/src/app/views/album-add.html",
+		"/C/wamp/www/curso-mean/client/src/app/components/album-detail.component.ts",
+		"/C/wamp/www/curso-mean/client/src/assets/css/styles.css",
+		"/C/wamp/www/curso-mean/client/src/app/services/album.service.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/album-add.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/artist-detail.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/artist-edit.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/album-edit.component.ts",
+		"/C/wamp/www/curso-mean/api/controllers/albumController.js",
+		"/C/wamp/www/curso-mean/client/src/app/components/artist-list.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/views/artist-list.html",
+		"/C/wamp/www/curso-mean/client/src/app/views/artist-add.html",
+		"/C/wamp/www/curso-mean/client/src/app/services/artist.service.ts",
+		"/C/wamp/www/curso-mean/api/controllers/artistController.js",
+		"/C/wamp/www/curso-mean/client/src/app/services/upload.service.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/artist-add.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/components/user-edit.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/app.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/views/home.html",
+		"/C/wamp/www/curso-mean/client/src/app/components/home.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/views/user-edit.html",
+		"/C/wamp/www/curso-mean/api/routes/userRoutes.js",
+		"/C/Users/user/Documents/Mis archivos recibidos/user-edit.component.ts",
+		"/C/wamp/www/curso-mean/client/src/app/services/user.service.ts",
+		"/C/wamp/www/curso-mean/api/controllers/userController.js",
+		"/C/wamp/www/curso-mean/client/src/app/models/user.ts",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/TypeScript/tsserver/lib.dom.d.ts",
+		"/C/wamp/www/curso-mean/client/src/app/services/global.ts",
+		"/C/wamp/www/curso-mean/client/src/app/models/artist.ts",
+		"/C/wamp/www/curso-mean/client/src/app/models/album.ts",
+		"/C/wamp/www/curso-mean/client/src/index.html",
+		"/C/wamp/www/curso-angular-cli/README.md",
+		"/C/wamp/www/curso-mean/routes/albumRoutes.js",
+		"/C/wamp/www/curso-mean/controllers/albumController.js",
+		"/C/wamp/www/curso-mean/controllers/userController.js",
+		"/C/wamp/www/curso-mean/app.js",
+		"/C/wamp/www/curso-mean/routes/songRoutes.js",
+		"/C/wamp/www/curso-mean/controllers/songController.js",
+		"/C/wamp/www/curso-mean/models/song.js",
+		"/C/wamp/www/curso-mean/routes/artistRoutes.js",
+		"/C/wamp/www/curso-mean/controllers/artistController.js",
+		"/C/wamp/www/curso-mean/routes/userRoutes.js",
+		"/C/wamp/www/curso-mean/routes/user.js",
+		"/C/wamp/www/curso-mean/routes/artist-routes.js",
+		"/C/wamp/www/curso-mean/controllers/user.js",
+		"/C/wamp/www/curso-mean/middlewares/authenticated.js",
+		"/C/wamp/www/curso-mean/uploads/users/PTgX0vFMv-X0synotnnRTQyd.png",
+		"/C/wamp/www/curso-mean/uploads/users/4ujJz3Rj5MW82OifAuFvDmaN.png",
+		"/C/Users/user/Documents/Configuration for Atrium HR",
+		"/C/wamp/www/curso-mean/services/jwt.js",
+		"/C/wamp/www/curso-mean/package.json",
+		"/C/wamp/www/curso-mean/index.js",
+		"/C/wamp/www/curso-mean/package-lock.json",
+		"/C/wamp/www/curso-mean/models/album.js",
+		"/C/wamp/www/curso-mean/models/artist.js",
+		"/C/wamp/www/curso-mean/models/user.js",
+		"/C/cygwin64/home/user/.bash_profile",
+		"/C/Users/user/Documents/APEX Resources/PlugIns/v3.0/db/db_pkg_native_compile.sql",
+		"/C/Users/user/Documents/APEX Resources/PlugIns/v3.0/db/aop_sample3_db_obj.sql",
+		"/C/Users/user/Documents/APEX Resources/PlugIns/v3.0/readme.txt",
+		"/C/Users/user/Documents/APEX Resources/PlugIns/v3.0/db/aop_db_pkg.sql",
+		"/C/Users/user/Documents/APEX Resources/PlugIns/v3.0/db/install.sql",
+		"/C/Users/user/Desktop/Resolución_Reto_III/Resolución Reto III/README.md",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Sprints/Sprint 6/Scripts/upgrade_sprint6.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Sprints/Sprint 7/Installation notes.txt",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Sprints/Sprint 5/Installation Scripts/scrm_s5-2_data_en-new.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Sprints/Sprint 5/Installation Scripts/scrm_s5-2_data_all-upg.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Sprints/Sprint 7/Upgrade sCRM - Sprint 7.sql",
+		"/C/Users/user/Downloads/oehr_sample_objects_installer.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Sprints/Sprint 7/Installation sCRM - Sprint 7.sql",
+		"/C/Users/user/Desktop/Sequences & Triggers.sql",
+		"/C/Users/user/Desktop/maxime-tremblay-apex-plugin-imagecropper-9752595/README.md",
+		"/C/Users/user/Desktop/THDevelop-APEX-5.1-FadeOut-Success-MSG-eb80814/README.md",
+		"/C/Users/user/Desktop/THDevelop-APEX-5.1-FadeOut-Success-MSG-eb80814/Auto_Fade_Success_MSG_5_1_v_0_1.sql",
+		"/C/Users/user/Desktop/farzadso-APEX-Flip-CountDown-070b2cd/README.md",
+		"/C/Users/user/Desktop/Sprint 6/Scripts/upgrade_sprint6.sql",
+		"/C/Users/user/Desktop/Sprint 6/Scripts/installnew_sprint6.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 5/Installation Scripts/scrm_s5-2_data_en-new.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 5/Installation Scripts/scrm_s5-1_struct-new.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 5/Installation Scripts/scrm_s5-3_struct.sql",
+		"/C/Users/user/Desktop/Sprint 6/Installation notes.txt",
+		"/C/Users/user/Desktop/Letter.txt",
+		"/C/Users/user/Desktop/upgrade_sprint6.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Presentation - es.txt",
+		"/C/Users/user/Desktop/Installation notes.txt",
+		"/C/Users/user/export.csv",
+		"/C/Users/user/export.sql",
+		"/C/Users/user/Desktop/Daily overviews.txt",
+		"/C/Users/user/Videos/Grabaciones de Lync/Xamarin Introduction/Index.txt",
+		"/C/Users/user/Documents/Mis archivos recibidos/LoginPage.xaml",
+		"/C/Users/user/Documents/Mis archivos recibidos/LoginPage.xaml.cs",
+		"/C/Users/user/Documents/Mis archivos recibidos/App.xaml",
+		"/C/Users/user/Documents/Slides Booklet.txt",
+		"/C/Users/user/Documents/APEX Resources/Password Vault/Installation script.sql",
+		"/C/Users/user/Desktop/Sprint 4/Installation Scripts/scrm_s4-1_struct-upg.sql",
+		"/C/Users/user/Documents/email list.txt",
+		"/C/Users/user/Downloads/tbd.bootstrap.min.css",
+		"/C/Users/user/Downloads/tbd.bootstrap-responsive.min.css",
+		"/C/Users/user/Downloads/tbd.app.css",
+		"/C/Users/user/Downloads/fdd.normalize.css",
+		"/C/Users/user/Downloads/fdd.foundation.min.css",
+		"/C/Users/user/Downloads/fdd.app.css",
+		"/C/Users/user/Downloads/app.rtl.css",
+		"/C/Users/user/Downloads/materialize.css",
+		"/C/Users/user/Downloads/materialize-init.js.map",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 4/Installation Scripts/scrm_s4-3_struct.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 5/Installation Scripts/scrm_s5-2_data_es-new.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 5/Installation Scripts/scrm_s5-2_data_all-upg.sql",
+		"/C/Users/user/Downloads/591.pdf",
+		"/C/Users/user/Downloads/632.pdf",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 4/Installation Scripts/scrm_s4-2_data_en-new.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 4/Installation Scripts/scrm_s4-2_data_es-new.sql",
+		"/C/Users/user/Documents/APEX Resources/sCRM System/Core/Sprint 5/Installation Scripts/scrm_s5-1_struct-upg.sql",
+		"/C/Users/user/AppData/Local/Temp/Temp1_Sprint 4.zip/Installation Scripts/scrm_s4-1_struct-upg.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"seguro",
+			"alertMessage",
+			"console.log",
+			");\n",
+			"get-image-artis",
+			"artis",
+			"console.log",
+			"docu",
+			"Lastname",
+			"toLowerCase",
+			"name",
+			"undefined",
+			"Surname",
+			"proppic",
+			"license",
+			"notifica",
+			"v_user_no",
+			"license",
+			"NOTif",
+			"gra",
+			"v_cust_trans",
+			"v_cust_acountsfund",
+			"jg",
+			"customers_to",
+			"customers_too",
+			"license",
+			"notifica",
+			"\"PSWVAULT\".",
+			"custpropstatus",
+			"custprop",
+			"alm",
+			"td, th",
+			"text-align: left",
+			"td",
+			"print",
+			"servicerole",
+			"custacttrans",
+			"APEX",
+			"custprop",
+			"status",
+			"chat_util",
+			"navbar",
+			"V_CUST_transactions",
+			"apex",
+			"html",
+			"apex",
+			"PROPTYPEID,",
+			"ID,",
+			"TITLEID,",
+			"ADDRTYPEID,",
+			"ID,",
+			"ROLEID,",
+			"proppict",
+			"serviceactivities",
+			"procedure",
+			"--------------------------------------------------------",
+			"---",
+			"custprop",
+			"banks",
+			"bank",
+			"banks",
+			"bi_custtask",
+			"trigger",
+			"@table",
+			"custaccounts",
+			"@table",
+			"drop table",
+			"@TABLE",
+			"@table",
+			"BANKS",
+			"COLUMN",
+			"DROP",
+			"apex",
+			"carousel",
+			"translateY",
+			"100px",
+			"view",
+			" contact form",
+			"nornir",
+			"Nornir",
+			"nornir",
+			"permit",
+			"insert",
+			"NEWSLOG",
+			"NEWSLETTERS",
+			"MESSAGE",
+			"EVENTSEMP",
+			"EVENTSUSERS",
+			"scrm utili",
+			"newsletter",
+			"chat",
+			"\"PROD_JG_SCRM\".",
+			"prod",
+			"sysconfig",
+			"system",
+			"licen",
+			"core",
+			"license",
+			"rolusers",
+			"TRIG",
+			"/",
+			"188",
+			"sendemail",
+			"128.",
+			"128",
+			"102",
+			"128.",
+			"PROPHISTATTRIB",
+			"constraint",
+			"rol",
+			"\"PROD_JG_SCRM\".",
+			"pw",
+			"customers",
+			"tr_customers",
+			"tknChange",
+			"CUSTREGISTER_INS_TR",
+			"Funds",
+			"Logout",
+			"Reports",
+			"spa",
+			"logout",
+			"spanish",
+			"english",
+			"122",
+			"log",
+			"login",
+			"style",
+			"Home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Lastname",
+			"lastname",
+			"",
+			"DOCS",
+			"CUSTADDRESSES",
+			"CONTACTS",
+			"SERVICETASKS",
+			"SERVICEACTIVITIES",
+			"PRODUCTS",
+			"CUSTACTTASKS",
+			"CUSTACT",
+			"CUSTACCTRANS",
+			"BANKS",
+			"EMAILSENTLOG",
+			"EMAILSENT",
+			"EVENTSEMP",
+			"",
+			"Informes",
+			"102",
+			"Página Principal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/src/app/components/album-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3021,
+								3011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/src/app/views/album-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/src/app/components/player.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/src/assets/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1419,
+								1419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1349.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/bootstrap-4-dev/docs/4.0/examples/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "api/routes/albumRoutes.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
