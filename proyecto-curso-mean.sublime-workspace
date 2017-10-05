@@ -472,10 +472,10 @@
 			}
 		},
 		{
-			"file": "api/routes/albumRoutes.js",
+			"file": "api/app.js",
 			"settings":
 			{
-				"buffer_size": 856,
+				"buffer_size": 991,
 				"line_ending": "Windows"
 			}
 		}
@@ -522,10 +522,15 @@
 	[
 		"/C/wamp/www/curso-mean",
 		"/C/wamp/www/curso-mean/api",
+		"/C/wamp/www/curso-mean/api/controllers",
+		"/C/wamp/www/curso-mean/api/middlewares",
+		"/C/wamp/www/curso-mean/api/models",
 		"/C/wamp/www/curso-mean/api/routes",
-		"/C/wamp/www/curso-mean/client",
 		"/C/wamp/www/curso-mean/client/src",
-		"/C/wamp/www/curso-mean/client/src/assets"
+		"/C/wamp/www/curso-mean/client/src/app",
+		"/C/wamp/www/curso-mean/client/src/app/components",
+		"/C/wamp/www/curso-mean/client/src/app/models",
+		"/C/wamp/www/curso-mean/client/src/app/services"
 	],
 	"file_history":
 	[
@@ -1004,19 +1009,19 @@
 				},
 				{
 					"buffer": 5,
-					"file": "api/routes/albumRoutes.js",
+					"file": "api/app.js",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 856,
+						"buffer_size": 991,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								458,
-								458
+								0,
+								0
 							]
 						],
 						"settings":
